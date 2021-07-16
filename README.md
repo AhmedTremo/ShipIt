@@ -35,4 +35,4 @@ streamlit run app.py
 https://drive.google.com/drive/folders/1qejc9JG6EQng4Mh1l-n4LSuR2DfDzCUf?usp=sharing
 
 ## Link to the demo video 
-https://drive.google.com/file/d/1Lavvd6frxFRkxrKVKN2-c7a2ZvWifzaI/view?usp=sharing
+https://drive.google.com/file/d/1OD2nQnm6d7qlk4Rkk2wbXYA0Y-s-LOjL/view?usp=sharing
