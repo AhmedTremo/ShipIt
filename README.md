@@ -10,7 +10,9 @@ cd ShipIt
 2. Create environment
 a. For Linux
 ```bash
-python -m venv venv_shipIt
+python3 -m venv venv_shipIt
+sudo apt-get install python3-venv
+chmod +x venv_shipIt/bin/activate
 venv_shipIt/bin/activate
 ```
 b. For Windows
